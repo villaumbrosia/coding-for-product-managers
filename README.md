@@ -2,7 +2,7 @@
 
 # Coding for Product Managers
 
-Schedule:
+## Schedule:
 
 | Day | Date | Topic |
 |-----|-------|------|
@@ -22,3 +22,20 @@ Schedule:
 | Day 14 | 03/27/17 | [Public APIs](public-apis)
 | Day 15 | 03/29/17 | [Deployment](deployment)
 | Day 16 | 04/03/17 | [Technical Interviews](technical-interviews)
+
+## Structure:
+
+During the course, you will learn about Front-End development, Back-End development, Testing, APIs and Technical Interviews.
+
+Each class contains 5 files:
+1. **Pre-class prep.md**: You will videos or articles that will help you prepare your class to make sure you understand key concepts.
+2. **Lecture-notes.md**: This is what you will go through during the class.
+3. **Resources.md**: You will find here additionnal resources if you want to go further than what have been taught during class
+4. **Exercises.md**: If you need some more training, you will addtionnal exercises to practice your code and help you memorize the concepts you learn in class
+5. **Solutions.md**: These are the solutions of the additionnal exercises.
+
+Coding is about practice. We advise you to read or watch the pre-class preparations and do the additonnal exercises if you want to get the best out of this program. 
+
+
+## Who to contact
+If you have any questions related to the course itself, you can reach out to your instructor on Slack. If you have other questions, you can refer to your program manager.
