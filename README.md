@@ -27,14 +27,19 @@
 
 During the course, you will learn about Front-End development, Back-End development, Testing, APIs and Technical Interviews.
 
-Each class contains 5 files:
+Each class contains 5 files
+
 1. **Pre-class prep.md**: You will videos or articles that will help you prepare your class to make sure you understand key concepts.
+
 2. **Lecture-notes.md**: This is what you will go through during the class.
+
 3. **Resources.md**: You will find here additionnal resources if you want to go further than what have been taught during class
+
 4. **Exercises.md**: If you need some more training, you will addtionnal exercises to practice your code and help you memorize the concepts you learn in class
+
 5. **Solutions.md**: These are the solutions of the additionnal exercises.
 
-Coding is about practice. We advise you to read or watch the pre-class preparations and do the additonnal exercises if you want to get the best out of this program. 
+Coding is about practice. We advise you to read or watch the pre-class preparations and do the additonnal exercises if you want to get the best out of this program.
 
 
 ## Who to contact
